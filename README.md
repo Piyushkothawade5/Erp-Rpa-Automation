@@ -172,9 +172,7 @@ START_DELAY = 5              # Seconds before script starts (time to focus ERP w
 ├── README.md
 ├── 1.Run.py                  ← Main automation script
 ├── items.txt                 ← Sample input file (dummy data)
-├── screenshots/
-│   ├── flow_diagram.png      ← Architecture diagram
-│   └── excel_log.png         ← Sample audit log output
+
 ```
 
 > **Note:** `thanks_btn.png` and `invalid_item.png` are image templates used for popup detection. These are captured from the ERP screen and are not included as they contain proprietary UI elements.
